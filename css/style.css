@@ -1,0 +1,156 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+body{
+	font-family: 'Poppins', sans-serif;
+
+}
+
+.barra{
+	font-weight: bold;
+	color: #FBF9F9;
+}
+
+.boton{
+	font-weight: 700
+}
+
+.redesociales{
+	height: 50px!important;
+}
+
+.foto1{
+	height: 400px;
+}
+
+.caja0{
+	background-color:#EDEDED
+}
+
+.caja1{
+	background-color:#F8F8F8
+}
+
+.caja2{
+	background-color: #E9FFEA
+}
+
+.futer{
+	background-color: #C0C0C0
+}
+
+.futer1{
+	width: 330;
+	margin: 10px -150px 10px 58px;
+}
+
+.futer2{
+	width: 330;
+	margin: 10px -60px 10px 74px;
+	padding: 0px 50px 0px 0px
+}
+
+.futer3{
+	width: 330;
+	margin: 10px 0px 10px 58px;
+}
+
+footer{
+	margin: 2px 5px;
+	padding: 2px 20px;
+}
+
+.caja3{
+	background-color: #142630;
+}
+
+.iconos{
+	text-align: center;
+}
+
+.cajaicono{
+	margin: 80px;
+}
+
+.cajadona{
+	margin: 140px 0px;
+	font-size: 17pt;
+}
+
+.contenedor1{
+	padding: 120px 0px;
+}
+
+.contenedor2{
+	padding: 100px 0px;
+}
+
+.contenedor3{
+	padding: 150px 0px;
+}
+
+.contenedor4{
+	padding: 120px 0px;
+}
+
+.contenedor5{
+	padding: 90px 0px;
+}
+
+.letrachica{
+	font-size: 10pt;
+}
+
+.letramediana{
+	font-size: 14pt;
+	padding: 20px 0px;
+}
+
+.letramediana1{
+	font-size: 14pt;
+}
+
+@media screen and (max-width: 768px) and (min-width: 50px) {
+	.contenedor1{
+		padding: 10px 0px;
+	}
+	
+	.cajadona{
+		margin: 15px 0px;
+	}
+	
+	.contenedor2{
+		padding: 10px 0px;
+	}
+	
+	.contenedor3{
+		padding: 15px 0px;
+	}
+	
+	.contenedor4{
+		padding: 10px 0px;
+	}
+	
+	.contenedor5{
+		padding: 10px 0px;
+	}
+	
+	.letramediana{
+		font-size: 10pt;
+	}
+	
+	.cajaicono{
+		margin: 140px;
+		
+	}
+	
+	.iconos{
+		font-size: 16pt;
+	}
+	
+	.zapatilla{
+		margin: 60px 0px;
+	}
+}
